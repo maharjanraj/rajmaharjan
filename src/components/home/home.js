@@ -19,7 +19,7 @@ function Home(props) {
       <div className="links">
         <p>
           <a
-            href="https://github.com/roxcity"
+            href="https://github.com/maharjanraj"
             target="_blank"
             rel="noopener noreferrer"
           >
